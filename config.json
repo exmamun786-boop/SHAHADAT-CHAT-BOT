@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "MAMUN",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,16 +11,16 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
-  "reactUnsend": ["😡", "🤧", "😤", "😠"],
+  "BOTNAME": "𓄂͢࿑𝗖𝗜𝗥𝗖𝗟𝗘 𝗕𝗢𝗧 🟡",
+  "PREFIX": "-",
+  "reactUnsend": ["💩", "🥵", "❌", "🖕"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "100001039692046",
-    "100001039692046"
+    "61583457574280",
+    "61580322062833",
+    "61583705279898"
   ],
-  "NDH": ["100001039692046"],
+  "NDH": ["61580322062833"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
